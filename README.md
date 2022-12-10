@@ -26,4 +26,5 @@ Link: https://www.linkedin.com/in/andres-covas-648107236/
 
 # Page Screenshot
 
-![Screenshot (170)](https://user-images.githubusercontent.com/91930698/206836054-c6cf7f3a-5b33-4744-b1f3-30abdfba112f.png)
+
+![Screenshot (171)](https://user-images.githubusercontent.com/91930698/206836389-8ce48a76-925f-4e5e-a15f-526b3578804e.png)

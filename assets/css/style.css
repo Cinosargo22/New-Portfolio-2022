@@ -73,6 +73,6 @@ body {
     cursor: pointer;
     background-color: rgb(245, 243, 239);
     color: black;
-    box box-shadow: 0 0 5px white, 0 0 10px white, 0 0 15px white;
+    box:hover 0 0 5px white, 0 0 10px white, 0 0 15px white;
     font-weight: bold;
 }
